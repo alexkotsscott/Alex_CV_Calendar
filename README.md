@@ -7,7 +7,7 @@
   
   # DOWNLOAD THE WORD DOC For the full CV
 
-# **Curriculum Vitae**
+# **Contact Details**
 
 | Name: | Alexander Scott |
 | --- | --- |
