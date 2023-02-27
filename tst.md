@@ -1,8 +1,4 @@
-# DOWNLOAD THE WORD DOC
-
-
-
-
+# DOWNLOAD THE WORD DOC For the full CV
 
 # **Curriculum Vitae**
 
