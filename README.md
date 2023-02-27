@@ -14,7 +14,6 @@
 | Number: | 0780 973 9566 |
 | Email: | alexzndrscott@gmail.com |
 | Location: | Greenwich, London, England |
-| Git Account: | [Customised_Insruance_Data_Analysis](https://github.com/alexkotsscott/Customised_Insruance_Data_Analysis) |
 
 ##
 
