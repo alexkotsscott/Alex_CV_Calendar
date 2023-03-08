@@ -48,7 +48,7 @@ Programming             - R/Python & PySpark & SQL
                         
  Insurance              - Exposure to
                         - Motor & Home big data (AXA)
-                        - Property & Casualty Llyods globally (Carbon)
+                        - Property & Casualty Llyods Syndicate - Global Markets (Carbon)
                         - Travel, Pet & Gadget (ERGO)
                         - Radar, motor, big data (Markerstudy)
 
