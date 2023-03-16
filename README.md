@@ -8,7 +8,7 @@
 
 
 
-  # DOWNLOAD THE WORD DOC (ALEX CV) For the full CV
+  # CLick ALEX CV For the full CV (Word Document format)
 
 # **Contact Details**
 
