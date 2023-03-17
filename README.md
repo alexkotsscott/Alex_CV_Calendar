@@ -6,9 +6,7 @@
 
 [Sample Insurance Project](https://github.com/alexkotsscott/Customised_Insruance_Data_Analysis)
 
-
-
-  # CLick ALEX CV For the full CV (Word Document format)
+# Click Alex CV For my CV (Word Document format, available to download)
 
 # **Contact Details**
 
