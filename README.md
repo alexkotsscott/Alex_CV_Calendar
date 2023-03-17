@@ -30,7 +30,7 @@ Honest Blue Sky thinker with a wealth of experience having worked in small, medi
 Programming             - R/Python & PySpark & SQL
                         - Jupyter Notebooks
                         - DataBricks
-                        - Azure Data Factory / Azure ML – Azure ecosystem MSSQL Server
+                        - Azure Data Factory / Azure ML – Azure ecosystem
                         - Tableau, Looker, Power BI
                         - Comfortable in Linux, Macs & PCs
                         
