@@ -17,7 +17,7 @@
 | Number: | 0780 973 9566 |
 | Email: | alexzndrscott@gmail.com |
 | Location: | Greenwich, London, England |
-| Website (Work in Progress): | https://saskotenko.wixsite.com/kotenko|
+| My Personal Website|[Site Link](https://saskotenko.wixsite.com/kotenko)
 
 ##
 
